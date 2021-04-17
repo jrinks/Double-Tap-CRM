@@ -19,7 +19,7 @@
 }
 
 #free {
-    height:18px ;
+    height:21px ;
     width: 120px;
 }
 
@@ -35,7 +35,7 @@ width: 198px;
 
 #cancel {
     height:20px;
-    width: 100px; ;
+    width: 130px; ;
 }
 
 #task {
@@ -46,4 +46,16 @@ width: 198px;
 #cal {
     height: 200px;
     width: 260px;
+}
+
+#sol {
+    margin-top: 160px;
+}
+
+#topcont {
+    margin-bottom: 20px;
+}
+
+#footer1 {
+    width: 100%;
 }
