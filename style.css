@@ -1,0 +1,49 @@
+
+.nav {
+    height: 50px;
+}
+
+#getstarted {
+    height: 45px;
+    width: 230px;
+}
+
+#chatwl {
+    height:44px ;
+    width: 210px; ;
+
+}
+
+.footer1 {
+    display: inline-block;
+}
+
+#free {
+    height:18px ;
+    width: 120px;
+}
+
+.dotwl {
+    height: 7px; ;
+    width: 7px;
+}
+
+#manage {
+height: 20px; ;
+width: 198px;
+}
+
+#cancel {
+    height:20px;
+    width: 100px; ;
+}
+
+#task {
+    height: 200px;
+    width: 270px;
+}
+
+#cal {
+    height: 200px;
+    width: 260px;
+}
