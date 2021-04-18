@@ -35,13 +35,17 @@
       padding: 10px;
   }
 
-  .btn{
+  
+
+
+  .btnsa{
       border-radius: 30px;
       padding: 10px;
       font-weight: 600;
       font-size: larger;
       width: 50%;
   }
+  
 
   .sign-in-button{
       text-align: center;
