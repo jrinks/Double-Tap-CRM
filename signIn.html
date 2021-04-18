@@ -18,56 +18,59 @@
     <title>Sign In</title>
 </head>
 <body>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-7">
-                <img src="attachments/signIn.PNG">
+    <div class="container container-fluid" >
+        <div class="row d-flex justify-content-center align-items-center" id="signincontainer">
+            <div class="col-6 container-fluid">
+                <img id="signinimg" src="attachments/signIn.PNG">
             </div>
 
-            <div class="col-md-5">
+            <div class="col-6 container-fluid">
                 <div class="form-container">
 
-                    <h3>Sign In</h3>
+                    <h3 id="signinhead">Sign In</h3>
+
+<div class="col-5 ms-5">
+  <form>
+    <div class="form-group">
+        <i class="fa fa-user icon"></i>
+      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"> 
 
 
-                    <form>
-                        <div class="form-group">
-                            <i class="fa fa-user icon"></i>
-                          <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"> 
-                    
+    </div>
+    <div class="form-group">
+      <i class="fa fa-envelope lock-email" style="margin-left: 40px;margin-top: 25px;"></i>
+      <input type="email" class="form-control" id="exampleInputPassword1">
+    </div>
 
-                        </div>
-                        <div class="form-group">
-                          <i class="fa fa-envelope lock-email" style="margin-left: 40px;margin-top: 25px;"></i>
-                          <input type="email" class="form-control" id="exampleInputPassword1">
-                        </div>
-
-                        <div class="form-group">
-                          <i class="fas fa-lock lock-email"></i>
-                            <input type="password" class="form-control" id="exampleInputPassword1">
-                          </div>
+    <div class="form-group">
+      <i class="fas fa-lock lock-email"></i>
+        <input type="password" class="form-control" id="exampleInputPassword1">
+      </div>
 
 
-                          <div class="sign-in-button">
-                            <button type="submit"class="btn btn-primary">Sign In</button>
+      <div class="sign-in-button">
+        <button type="submit"class="btn btn-primary">Sign In</button>
 
-                            <p style="margin-top: 20px;">or sign in with social platform</p>
-                          </div>
+        <p style="margin-top: 20px;">or sign in with social platform</p>
+      </div>
 
-                          <div class="social-icons" style="text-align: center;">
+      <div class="social-icons" style="text-align: center;">
 
-                            <i class="fab fa-facebook-f social m-right"></i>
+        <i class="fab fa-facebook-f social m-right"></i>
 
-                            <i class="fab fa-twitter social"></i>
+        <i class="fab fa-twitter social"></i>
 
-                            <i class="fab fa-google social m-left"></i>
+        <i class="fab fa-google social m-left"></i>
 
 
-                            <i class="fab fa-linkedin-in social m-left"></i>
+        <i class="fab fa-linkedin-in social m-left"></i>
 
-                          </div>
-                        
-                      </form>
+      </div>
+    
+  </form>
+
+</div>
+                   
                 </div>
                 
             </div>

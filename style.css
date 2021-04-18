@@ -88,10 +88,10 @@
 
 .m-left{
     margin-left: 10px;
-
+}
 
 #navwl {
-    height: 50px;
+    height: 400px;
 }
 
 #getstarted {
@@ -135,12 +135,12 @@ width: 198px;
 }
 
 #cal {
-    height: 190px;
+    height: 200px;
     width: 260px;
 }
 
 #sol {
-    margin-top: 160px;
+    margin-top: 130px;
 }
 
 #topcont {
@@ -150,4 +150,62 @@ width: 198px;
 #footer1 {
     width: 100%;
 
+}
+
+#wlcont {
+    margin-top: 60px;
+}
+
+#signupcontainer {
+
+        position:fixed;
+        padding:0;
+        margin:0;
+    
+        top:0;
+        left:0;
+    
+        width: 100vw;
+        height: 100%;
+        background:rgba(255,255,255,0.5);
+
+}
+
+#signuphead {
+    font-size: 90px;
+}
+
+#signupform {
+    margin-left: 30%;
+}
+
+#signincontainer {
+
+    position:fixed;
+    padding:0;
+    margin:0;
+
+    top:0;
+    left:0;
+
+    width: 100vw;
+    height: 100%;
+    background:rgba(255,255,255,0.5);
+    
+
+}
+
+#signinhead {
+    font-size: 90px;
+    
+}
+#signinimg {
+
+    height: 900px;
+    width: 1000px;
+    margin-left: 0px;
+}
+
+.form-container {
+    margin-left: 100px;
 }
