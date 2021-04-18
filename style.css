@@ -1,3 +1,4 @@
+
 .navbar-nav > li{
     padding-left:30px;
     padding-right:30px;
@@ -83,4 +84,66 @@
 
 .m-left{
     margin-left: 10px;
+
+
+#navwl {
+    height: 50px;
+}
+
+#getstarted {
+    height: 45px;
+    width: 230px;
+}
+
+#chatwl {
+    height:44px ;
+    width: 210px; ;
+
+}
+
+.footer1 {
+    display: inline-block;
+}
+
+#free {
+    height:21px ;
+    width: 120px;
+}
+
+.dotwl {
+    height: 7px; ;
+    width: 7px;
+}
+
+#manage {
+height: 20px; ;
+width: 198px;
+}
+
+#cancel {
+    height:20px;
+    width: 130px; ;
+}
+
+#task {
+    height: 200px;
+    width: 270px;
+}
+
+#cal {
+    height: 200px;
+    width: 260px;
+}
+
+#sol {
+    margin-top: 160px;
+}
+
+#topcont {
+    margin-bottom: 20px;
+}
+
+#footer1 {
+    width: 100%;
+
 }
