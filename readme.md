@@ -1,9 +1,12 @@
-### Readme
+### Double Tap CRM made by:
 
-Navbar- Saed
-Roberto - area under the navbar one row two columns
-Jessica - Start to Explore
-William- Solutions to fit your business needs to footer
+William Le- Solutions to Fit Yur Business Needs section and Footer section
+Roberto Lopez - Focus on Your Business section and How It Works page
+Jessica Rinks - Start to Explore Double Tap section and Start Accepting Payments With Ease
+Saed Rabu -  Navbar, Sign In page, Sign Up page
 
-Links- We'll do those once we have main page done
-and divy them up then
+Jessica owned the original repository. 
+Other team members forked original repo and contributed their changes via Pull Requests.
+Pull requests were merged by Jessica (with a lot of help from other team members). 
+Other team members periodically pulled from upstream to obtain most up to date version.
+
