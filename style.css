@@ -1,0 +1,86 @@
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+  }
+
+  #signIn{
+      border:2px solid blue;
+      color: blue;
+      border-radius: 5px;
+  }
+
+  #signUp{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+  }
+
+
+  /*Sign In page styling*/
+  h3{
+      margin-top: 50px;
+  }
+  form{
+      margin-top: 80px;
+  }
+
+  .form-container{
+      padding: 30px;
+  }
+
+  .form-control{
+      border-radius: 30px;
+      margin-bottom: 40px;
+      padding: 10px;
+  }
+
+  .btn{
+      border-radius: 30px;
+      padding: 10px;
+      font-weight: 600;
+      font-size: larger;
+      width: 50%;
+  }
+
+  .sign-in-button{
+      text-align: center;
+  }
+
+  /*icons*/
+  .form-group i{
+      position: absolute;
+      margin-top: 15px;
+      margin-left: 30px;
+
+  }
+  
+  .icon {
+    padding: 10px;
+    min-width: 40px;
+
+}
+
+.form-group input{
+    padding: 20px 20px 20px 60px;
+}
+
+.form-group .fa-lock,.fa-envelope{
+    margin-left: 40px;
+    margin-top: 25px;
+}
+
+.social{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 50%;
+
+}
+
+.m-right{
+
+    margin-right: 10px;
+}
+
+.m-left{
+    margin-left: 10px;
+}
