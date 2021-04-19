@@ -1,0 +1,211 @@
+
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+  }
+
+  #signIn{
+      border:2px solid blue;
+      color: blue;
+      border-radius: 5px;
+  }
+
+  #signUp{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+  }
+
+
+  /*Sign In page styling*/
+  h3{
+      margin-top: 50px;
+  }
+  form{
+      margin-top: 80px;
+  }
+
+  .form-container{
+      padding: 30px;
+  }
+
+  .form-control{
+      border-radius: 30px;
+      margin-bottom: 40px;
+      padding: 10px;
+  }
+
+  
+
+
+  #btnsa{
+      border-radius: 30px;
+      padding: 10px;
+      font-weight: 600;
+      font-size: larger;
+      width: 50%;
+  }
+  
+
+  .sign-in-button{
+      text-align: center;
+  }
+
+  /*icons*/
+  .form-group i{
+      position: absolute;
+      margin-top: 15px;
+      margin-left: 30px;
+
+  }
+  
+  .icon {
+    padding: 10px;
+    min-width: 40px;
+
+}
+
+.form-group input{
+    padding: 20px 20px 20px 60px;
+}
+
+.form-group .fa-lock,.fa-envelope{
+    margin-left: 40px;
+    margin-top: 25px;
+}
+
+.social{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 50%;
+
+}
+
+.m-right{
+
+    margin-right: 10px;
+}
+
+.m-left{
+    margin-left: 10px;
+}
+
+#navwl {
+    height: 400px;
+}
+
+#getstarted {
+    height: 45px;
+    width: 230px;
+}
+
+#chatwl {
+    height:44px ;
+    width: 210px; ;
+
+}
+
+.footer1 {
+    display: inline-block;
+}
+
+#free {
+    height:21px ;
+    width: 120px;
+}
+
+.dotwl {
+    height: 7px; ;
+    width: 7px;
+}
+
+#manage {
+height: 20px; ;
+width: 198px;
+}
+
+#cancel {
+    height:20px;
+    width: 130px; ;
+}
+
+#task {
+    height: 200px;
+    width: 270px;
+}
+
+#cal {
+    height: 200px;
+    width: 260px;
+}
+
+#sol {
+    margin-top: 130px;
+}
+
+#topcont {
+    margin-bottom: 20px;
+}
+
+#footer1 {
+    width: 100%;
+
+}
+
+#wlcont {
+    margin-top: 60px;
+}
+
+#signupcontainer {
+
+        position:fixed;
+        padding:0;
+        margin:0;
+    
+        top:0;
+        left:0;
+    
+        width: 100vw;
+        height: 100%;
+        background:rgba(255,255,255,0.5);
+
+}
+
+#signuphead {
+    font-size: 90px;
+}
+
+#signupform {
+    margin-left: 30%;
+}
+
+#signincontainer {
+
+    position:fixed;
+    padding:0;
+    margin:0;
+
+    top:0;
+    left:0;
+
+    width: 100vw;
+    height: 100%;
+    background:rgba(255,255,255,0.5);
+    
+
+}
+
+#signinhead {
+    font-size: 90px;
+    
+}
+#signinimg {
+
+    height: 900px;
+    width: 1000px;
+    margin-left: 0px;
+}
+
+.form-container {
+    margin-left: 100px;
+}
